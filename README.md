@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsuriya" alt="vishalsuriya" /></a> </p>
 
-- 🔭 I’m currently working on [Pet-Adoption-System](https://github.com/vishalsuriya/Pet-Adoption-System)
+- 🔭 I’m currently working on **APP DEVELOPMENT**
 
-- 🌱 I’m currently learning **MernStack**
+- 🌱 I’m currently learning **React-Native**
 
 - 👯 I’m looking to collaborate on [ElectZone-Ecommerce](https://github.com/vishalsuriya/ElectZone)
 
