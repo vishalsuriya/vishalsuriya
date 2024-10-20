@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsuriya" alt="vishalsuriya" /></a> </p>
 
-- 🔭 I’m currently working on **APP DEVELOPMENT**
+- 🔭 I’m currently working on **App development**
 
 - 🌱 I’m currently learning **React-Native**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vishalsuriya2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ONNNsN-9oJ7igG4Za9XF8HQPlnFDdBqo/view?usp=drive_link](https://drive.google.com/file/d/1ONNNsN-9oJ7igG4Za9XF8HQPlnFDdBqo/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qWA2uIiFcsVc7NE3vc3G226gq1gZD9LP/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
