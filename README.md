@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalsuriya" alt="vishalsuriya" /></a> </p>
 
-- 🌱 I’m currently learning **Spring-boot**
-
 - 👯 I’m looking to collaborate on [ElectZone-Ecommerce](https://github.com/vishalsuriya/ElectZone)
 
 - 👨‍💻 All of my projects are available at [https://vishalsuriya-portfolio.onrender.com/)
