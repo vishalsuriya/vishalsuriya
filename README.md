@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on [ElectZone-Ecommerce](https://github.com/vishalsuriya/ElectZone)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1llEdjYqjEYU0xG1s8HbuyBdj7ean7wFY/view?usp=drive_link)
+- 👨‍💻 All of my projects are available at [https://vishalsuriya-portfolio.onrender.com/)
 
 - 📫 How to reach me **vishalsuriya2003@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1qWA2uIiFcsVc7NE3vc3G226gq1gZD9LP/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1nxT4D8xXQpWJd8Sx73xSYGAs1RdtJxUp/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
